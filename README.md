@@ -1,4 +1,3 @@
-Here's a template for a README for your User_Registrationform project:
 
 ---
 
